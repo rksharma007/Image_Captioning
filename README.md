@@ -9,6 +9,9 @@ This is a Deep Learning project to predict Image Captions using Flickr8k dataset
 4. Also upload the *testing_caption_generator.py* into ML folder. Do change the file paths accordingly.
 5. Now create a notebook in Colab by your preferred name, and copy paste from *image_caption_final.ipynb*
 6. Execute all the cells.
+7. After that, some models will get saved in folder *models/*; select *model_9.h5* and load it using *testing_caption_generator.py*
+8. Provide the path to your test image and run the script.
+9. ENJOY!
 
 ## Directory Tree
 ![directory_tree-01](https://user-images.githubusercontent.com/77050199/164980410-d637f547-ec60-48cd-b6e7-2a3ef279d8db.png)
